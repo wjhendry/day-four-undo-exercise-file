@@ -1,0 +1,7 @@
+Thanks you for this very good course.
+It has been very useful to me.
+I can see you have taken a lot of time to make things clear.
+The only difficult bit was the bit about undoing changes in day 4 - I had to try the final exercise several times.
+I found out that I was doing it correctly those other times, but I was worried about the detached HEAD.
+But this was the only tough bit. The rest is exemplary.
+Again, thank you.
